@@ -1,4 +1,3 @@
-import { List } from "@mui/material";
 import React, { useState } from "react";
 import { portfolio } from "../data/dummydata";
 import { Visibility } from "@mui/icons-material";
